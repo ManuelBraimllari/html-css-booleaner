@@ -1,0 +1,28 @@
+header{
+    background-image: url(pattern.png);
+    background-color: rgb(0, 166, 255);
+    height: 120px;
+    
+    
+}
+
+
+.contenitore{
+    margin-left: 200px;
+    
+}
+
+
+
+main{
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
+footer{
+    text-align: justify;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+
